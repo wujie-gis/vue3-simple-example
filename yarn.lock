@@ -160,6 +160,11 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@types/node@^17.0.34":
+  "integrity" "sha512-XImEz7XwTvDBtzlTnm8YvMqGW/ErMWBsKZ+hMTvnDIjGCKxwK5Xpc+c/oQjOauwq8M4OS11hEkpjX8rrI/eEgA=="
+  "resolved" "https://registry.npmjs.org/@types/node/-/node-17.0.34.tgz"
+  "version" "17.0.34"
+
 "@vitejs/plugin-vue@^2.3.3":
   "integrity" "sha512-SmQLDyhz+6lGJhPELsBdzXGc+AcaT8stgkbiTFGpXPe8Tl1tJaBw1A6pxDqDuRsVkD8uscrkx3hA7QDOoKYtyw=="
   "resolved" "https://registry.npmjs.org/@vitejs/plugin-vue/-/plugin-vue-2.3.3.tgz"
