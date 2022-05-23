@@ -1,4 +1,4 @@
-# Vue 3 + TypeScript + Vite 的最基本配置
+# Vue 3 + TypeScript + Vite + Tailwindcss 的项目配置
 
 基于 Vue 项目前端团队的代码规范及代码质量
 
